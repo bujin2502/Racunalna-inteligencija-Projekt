@@ -1,0 +1,19 @@
+# Izvršna datoteka
+GA_JSSP
+*.o
+*.exe
+
+# Izlazi pokretanja u korijenu projekta (primjeri su u rezultati/)
+/best_fitness_per_generation.csv
+/best_schedule.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editori / OS
+.vscode/
+.idea/
+.DS_Store
